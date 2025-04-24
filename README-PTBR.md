@@ -1,6 +1,6 @@
 ![Fila de Atendimento Bancário](https://github.com/user-attachments/assets/2f921fb3-25e2-441f-b188-66ef460c482f)
 ----------
-Este programa é um exercício realizado na disciplina de **Estrutura de Dados I**, que implementa uma **fila simples (FIFO)** com alocação dinâmica, simulando o atendimento em um banco.
+Este programa é um exercício realizado na disciplina de **Tópicos de Programação**, que implementa uma **fila simples (FIFO)** com alocação dinâmica, simulando o atendimento em um banco.
 
 <br/>
 
